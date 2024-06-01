@@ -1,1 +1,1 @@
-# cit281-p3
+We worked with fastify to create different routes for values of coins. We wrote a few functions that combined to calculate the values of coins and created routes with query parameters to test different amounts and denominations of coins.
